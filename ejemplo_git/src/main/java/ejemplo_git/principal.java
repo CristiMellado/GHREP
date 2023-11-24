@@ -7,6 +7,9 @@ public class principal {
 		System.out.println("Hola GIT");
 		
 		System.out.println("Ya se usar GIT");
+		
+		String miVariable;
+		String miEntero;
 
 	}//main
 
