@@ -6,8 +6,6 @@ public class principal {
 		
 		System.out.println("Hola GIT");
 		
-		
-		
 
 	}//main
 
