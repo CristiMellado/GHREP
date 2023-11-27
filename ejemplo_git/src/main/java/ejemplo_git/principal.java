@@ -13,6 +13,8 @@ public class principal {
 		
 		System.out.println("Ahora en GitHub");
 
+		String variable = "String definica en Github";
+
 	}//main
 
 }//class
